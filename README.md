@@ -79,7 +79,6 @@ Node.js
 -	Install next TypeScript Version: `npm install -g typescript@next`
 -	[typescript-collections](https://github.com/basarat/typescript-collections)
 -	[tslint](https://www.npmjs.com/package/tslint) - npm Module
--	[Documentation Generator](http://typedoc.io/) for TypeScript projects.
 
 ### React.js
 
