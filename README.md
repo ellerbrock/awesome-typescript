@@ -113,7 +113,6 @@ Module Bundlers
 Tools
 -----
 
--	[TypeDoc](http://typedoc.io/) - A documentation generator for TypeScript projects
 -	[TsLint](https://github.com/palantir/tslint) - TypeScript linter
 -	[DefinitelyTyped](http://definitelytyped.org/) - Repository for high quality TypeScript type definitions.
 
