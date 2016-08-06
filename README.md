@@ -1,4 +1,4 @@
-Awesome TypeScript [![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
+Awesome TypeScript [![Build Status](https://travis-ci.org/ellerbrock/awesome-typescript.svg?branch=master)](https://travis-ci.org/ellerbrock/awesome-typescript) [![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=100)](https://github.com/ellerbrock/typescript-badges/) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ==========================================================================================================================================================================================================================================================================================
 
 A curated list of awesome TypeScript resources.
@@ -112,7 +112,6 @@ Module Bundlers
 
 Tools
 -----
-
 -	[TsLint](https://github.com/palantir/tslint) - TypeScript linter
 -	[DefinitelyTyped](http://definitelytyped.org/) - Repository for high quality TypeScript type definitions.
 
