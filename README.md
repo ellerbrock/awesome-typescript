@@ -145,6 +145,7 @@ Video Courses
 
 -	[Angular Applications with TypeScript](https://mva.microsoft.com/en-US/training-courses/angular-applications-with-typescript-14330) (Microsoft Virtual Academy)
 -	[AngularJS with TypeScript made easy](https://www.youtube.com/watch?v=OZxnFB0yQHs) (SSW TV)
+-	[Free and paid online courses about Typescript](https://skillcombo.com/topic/typescript/)
 
 ### Contact / Social Media
 
