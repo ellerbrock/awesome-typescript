@@ -19,6 +19,7 @@ What is TypeScript?
 -	[TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
 -	[TypeScript Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
 -	[GitBook](https://basarat.gitbooks.io/typescript/) TypeScript Deep Dive. The definitive guide to TypeScript.
+-	[TypeScript Errors](https://typescript.tv/errors/) - List of the most common TypeScript errors and ways to fix them.
 
 ### [TypeScript](https://github.com/ellerbrock/typescript-badges/) & [Open Source](https://github.com/ellerbrock/open-source-badge/) Badges
 
