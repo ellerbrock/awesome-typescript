@@ -88,6 +88,7 @@ Node.js
 -	[TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
 -	[Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
 -	[vortigern - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
+- [Flowbite React](https://github.com/themesberg/flowbite-react) - Open-source component library built with React, TypeScript and Tailwind CSS
 
 Docker
 ------
@@ -127,6 +128,7 @@ Built with TypeScript
 
 -	[Angular2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 -	[palantir/plottable](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org\)
+- [Flowbite](https://github.com/themesberg/flowbite) - Open-source component library built with TypeScript and Tailwind CSS
 
 ### Standalone apps
 
