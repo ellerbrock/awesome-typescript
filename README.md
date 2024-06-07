@@ -65,6 +65,7 @@ IDEs
 -	[Codepen](http://codepen.io/) (Select TypeScript)
 -	[TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/)
 -	[TypeScript Editor](http://drake7707.github.io/Typescript-Editor/)
+-	[PostgreSQL Browser Playground](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 
 ### Chrome Extension
 
