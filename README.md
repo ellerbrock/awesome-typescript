@@ -12,6 +12,7 @@ What is TypeScript?
 
 ### Resources
 
+- [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/node-typescript) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 -	[TypeScript Website](https://www.typescriptlang.org/)
 -	[TypeScript Tutorial](http://www.typescriptlang.org/docs/tutorial.html)
 -	[TypeScript GitHub](https://github.com/Microsoft/TypeScript/)
