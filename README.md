@@ -127,6 +127,7 @@ Built with TypeScript
 
 -	[Angular2](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 -	[palantir/plottable](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org\)
+-	[pion](https://github.com/pionjs/pion) - React Hooks API for web components with lit-html, fully typed
 
 ### Standalone apps
 
