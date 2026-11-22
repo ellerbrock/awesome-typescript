@@ -65,6 +65,7 @@ IDEs
 -	[Codepen](http://codepen.io/) (Select TypeScript)
 -	[TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/)
 -	[TypeScript Editor](http://drake7707.github.io/Typescript-Editor/)
+-	[NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and JSON toolbox, handy for typing TypeScript interfaces
 
 ### Chrome Extension
 
